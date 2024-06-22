@@ -8,7 +8,7 @@ In this project, we have developed and implemented three fusion models: Early fu
 
 To start this project, clone the repository and install the necessary dependencies.
 ```bash
-!git clone https://github.com/yadavAmru/FusionOptimization
+!git clone https://github.com/Damir-Kanymkulov/Fusion-Optimization
 ```
 
 ## Usage
