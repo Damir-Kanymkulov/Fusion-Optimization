@@ -17,7 +17,7 @@ After data loading and preprocessing, the person can send two dictionaries (1 - 
 
 ## Fusion Models
 
-![Fusion Diagram](https://github.com/yadavAmru/FusionOptimization/blob/main/Images/Fusion_Diagrams.png)
+![Fusion Diagram](Images/Fusion_Diagrams.png)
 
 ### A. Early Fusion:
 In early fusion, the data from multiple inputs is concatenated at the input level, passed through the single model, and then the output is predicted. This approach allows the model to learn from the combined data directly. 
