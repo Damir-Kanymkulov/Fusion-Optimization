@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I have developed and implemented three fusion models: Early fusion, Late fusion, and Intermediate fusion. These models are designed to predict outputs from multimodal data, and I aim to compare their performance to determine which fusion strategy yields the most accurate results. A primary focus is on intermediate fusion, which often provides better results than early and late fusion. Additionally, I have applied optimization techniques, namely Brute Force, Grey Wolf Optimizer (GWO), Genetic Algorithm (GA), Simulated Annealing Algorithm (SAA), and Bayesian Optimization (BO) to the intermediate fusion model to further enhance its performance.
+In this project, I have developed and implemented three fusion models: Early fusion, Late fusion, and Intermediate fusion. These models are designed to predict outputs from multimodal data, and I aim to compare their performance to determine which fusion strategy yields the most accurate results. A primary focus is on intermediate fusion, which often provides better results than early and late fusion. Additionally, I have applied optimization techniques, namely Brute Force, Grey Wolf Optimization (GWO), Genetic Algorithm (GA), Simulated Annealing Algorithm (SAA), and Bayesian Optimization (BO) to the intermediate fusion model to further enhance its performance.
 
 ## Installation
 
